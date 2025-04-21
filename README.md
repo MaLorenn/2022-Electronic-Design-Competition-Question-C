@@ -1,1 +1,5 @@
-# 2022-Electronic-Design-Competition-Question-C
+# 2022年全国大学生电子设计竞赛C题（小车题）
+
+Car是主车代码，car_2是从车代码
+
+8p灰度传感器、蓝牙模块、stm32最小系统板、步进电机
